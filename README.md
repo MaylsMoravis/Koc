@@ -1,0 +1,2 @@
+# Koc
+bu ishimga qilyapman
